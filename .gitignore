@@ -1,3 +1,9 @@
+# Substance Designer
+.autosave
+
+# Mac shit
+.DS_Store
+
 # Visual Studio Code files
 .vscode/
 
